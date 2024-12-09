@@ -1,12 +1,6 @@
 #include <iostream>
 #define TAM 100
 using namespace std; //função para utilizar std sem precisar utilizar (util para quando vai utilizar muitas vezes o "std::")
-//Implemente as operações necessárias para manipular listas estáticas (Slides Aula 7) e um
-//programa principal para demonstrar o uso dos procedimentos criados.
-//IMPLEMENTAÇÃO
-
-
-
 
 struct Lista {
     // Tamanho definido pela variavel TAM
